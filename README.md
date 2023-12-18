@@ -15,6 +15,13 @@ Este proyecto es una plataforma web que muestra un dashboard con datos estadíst
 - Backend: FastAPI
 - Base de Datos: PostgreSQL
 
+## Dockerización del Proyecto
+El proyecto cuenta con un `Dockerfile` para facilitar su despliegue usando Docker. Sigue estos pasos para dockerizar el proyecto:
+1. Construir la imagen Docker: `docker build -t nombre-de-tu-imagen .`
+2. Ejecutar el contenedor: `docker run -p 8000:8000 nombre-de-tu-imagen`
+3. Asegúrate de configurar las variables de entorno necesarias para la conexión a la base de datos en el contenedor.
+
+
 ## Instalación y Uso
 Para poner en marcha el proyecto, sigue estos pasos:
 1. Clonar el repositorio: `git clone [URL del repositorio]`.
