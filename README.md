@@ -34,10 +34,5 @@ Para poner en marcha el proyecto, sigue estos pasos:
 ## Plan de Respaldo
 Para garantizar la continuidad del proyecto, se incluye una versión de la base de datos en formato CSV. Esto permite importar los datos fácilmente en caso de necesidad. Las instrucciones para la importación de estos datos se encuentran en la sección correspondiente.
 
-
-
-## Contacto
-Si tienes alguna pregunta, no dudes en contactarme en cristhian3815@gmail.com.
-
 ---
 > CG
